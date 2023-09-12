@@ -50,6 +50,8 @@ By default, the extension uses a rate of $5 per terabyte for calculating the cos
 
 3. The cost of the query will be automatically calculated and displayed next to the query volume metrics.
 
+   <img width="393" alt="image" src="https://github.com/mchl-schrdng/LookerQueryCost-ChromeExtension/assets/73759636/16af2071-3b13-40fe-aba9-ddf4433df9a9">
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
