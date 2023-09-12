@@ -46,9 +46,9 @@ By default, the extension uses a rate of $5 per terabyte for calculating the cos
 
 1. Open Looker and navigate to the Explore interface.
 
-2. Execute a query.
+2. Prepare your query by adding dimensions and measures.
 
-3. The cost of the query will be automatically calculated and displayed next to the query performance metrics.
+3. The cost of the query will be automatically calculated and displayed next to the query volume metrics.
 
 ## License
 
