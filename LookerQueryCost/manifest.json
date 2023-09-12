@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Looker Query Cost Calculator",
+  "version": "1.0",
+  "permissions": ["storage", "activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["*://*.looker.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
