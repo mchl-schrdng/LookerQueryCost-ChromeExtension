@@ -6,7 +6,7 @@ This Chrome extension calculates the cost of running a query in Looker based on 
 
 ## Disclaimer
 
-This is a simple, initial version of the extension and is not production-ready. The code is not maintained and is provided "as-is." Users may use and modify the code at their own risk. This project is merely an example to demonstrate how one might approach calculating query costs in Looker and should not be used for critical or production environments.
+This is a simple, initial version of the extension and is not production-ready. The code is not maintained and is provided "as-is." Users may use and modify the code at their own risk. This project is merely an example to demonstrate how one might approach calculating query costs in Looker.
 
 ## Features
 
