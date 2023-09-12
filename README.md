@@ -40,7 +40,7 @@ By default, the extension uses a rate of $5 per terabyte for calculating the cos
 
 3. Enable "Developer Mode" if it's not already enabled.
 
-4. Click on "Load Unpacked" and select the directory where you cloned the repository to.
+4. Click on "Load Unpacked", select the directory where you cloned the repository, and select the folder called "LookerQueryCost".
 
 ## Usage
 
