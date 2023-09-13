@@ -1,6 +1,6 @@
 // Function to calculate the cost
 function calculateCost(sizeStr) {
-    const pricePerTB = 5;
+    const pricePerTB = 6.25; // Price per TB using BigQuery > https://cloud.google.com/bigquery/pricing
     let bytes;
 
     if (sizeStr.endsWith('KB')) {
