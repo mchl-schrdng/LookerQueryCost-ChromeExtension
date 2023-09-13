@@ -20,7 +20,7 @@ This is a simple, initial version of the extension and is not production-ready. 
 
 ### Changing the Cost Per TB
 
-By default, the extension uses a rate of $5 per terabyte for calculating the cost. To change this rate, follow these steps:
+By default, the extension uses a rate of $6.25 per terabyte for calculating the cost (price per terabyte on BigQuery). To change this rate, follow these steps:
 
 1. Open the file `content.js` in a text editor.
 2. Locate the variable `pricePerTB` near the top of the file.
